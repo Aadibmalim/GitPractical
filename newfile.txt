@@ -1,2 +1,1 @@
-"First Git practical file" 
-"Additional line" 
+First Git practical file 
