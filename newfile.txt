@@ -1,1 +1,2 @@
-First Git practical file 
+First Git practical file
+Updated Git practical content
